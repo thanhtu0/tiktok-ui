@@ -1,4 +1,5 @@
 @import 'normalize.css';
+
 :root {
     --primary: #fe2c55;
     --black: #000;
@@ -22,7 +23,7 @@ html {
 }
 
 body {
-    font-family: 'FontRegular', sans-serif;
+    font-family: 'ProximaNova', sans-serif;
     font-size: 1.6rem;
     line-height: 1.5;
     text-rendering: optimizeSpeed;
@@ -43,31 +44,31 @@ a[href] {
 
 // Fonts emmbeded
 @font-face {
-    font-family: DisplayBold;
+    font-family: SofiaPro;
     src: url(/assets/fonts/TikTokDisplayFont-Bold.woff2);
     font-weight: 700;
 }
 
 @font-face {
-    font-family: DisplaySemibold;
+    font-family: SofiaPro;
     src: url(/assets/fonts/TikTokDisplayFont-Semibold.woff2);
     font-weight: 600;
 }
 
 @font-face {
-    font-family: FontBold;
+    font-family: ProximaNova;
     src: url(/assets/fonts/TikTokFont-Bold.woff2);
     font-weight: 700;
 }
 
 @font-face {
-    font-family: FontRegular;
+    font-family: ProximaNova;
     src: url(/assets/fonts/TikTokFont-Regular.woff2);
     font-weight: 400;
 }
 
 @font-face {
-    font-family: FontSemiBold;
+    font-family: ProximaNova;
     src: url(/assets/fonts/TikTokFont-Semibold.woff2);
     font-weight: 600;
 }
