@@ -42,6 +42,126 @@ const MENU_ITEMS = [
                     code: 'vi',
                     title: 'Tiếng việt',
                 },
+                {
+                    type: 'language',
+                    code: 'es',
+                    title: 'Español',
+                },
+                {
+                    type: 'language',
+                    code: 'fr',
+                    title: 'Français',
+                },
+                {
+                    type: 'language',
+                    code: 'de',
+                    title: 'Deutsch',
+                },
+                {
+                    type: 'language',
+                    code: 'zh-CN',
+                    title: '简体中文',
+                },
+                {
+                    type: 'language',
+                    code: 'ja',
+                    title: '日本語',
+                },
+                {
+                    type: 'language',
+                    code: 'ko',
+                    title: '한국어',
+                },
+                {
+                    type: 'language',
+                    code: 'ru',
+                    title: 'Русский',
+                },
+                {
+                    type: 'language',
+                    code: 'pt',
+                    title: 'Português',
+                },
+                {
+                    type: 'language',
+                    code: 'it',
+                    title: 'Italiano',
+                },
+                {
+                    type: 'language',
+                    code: 'ar',
+                    title: 'العربية',
+                },
+                {
+                    type: 'language',
+                    code: 'tr',
+                    title: 'Türkçe',
+                },
+                {
+                    type: 'language',
+                    code: 'nl',
+                    title: 'Nederlands',
+                },
+                {
+                    type: 'language',
+                    code: 'sv',
+                    title: 'Svenska',
+                },
+                {
+                    type: 'language',
+                    code: 'pl',
+                    title: 'Polski',
+                },
+                {
+                    type: 'language',
+                    code: 'th',
+                    title: 'ไทย',
+                },
+                {
+                    type: 'language',
+                    code: 'he',
+                    title: 'עברית',
+                },
+                {
+                    type: 'language',
+                    code: 'da',
+                    title: 'Dansk',
+                },
+                {
+                    type: 'language',
+                    code: 'fi',
+                    title: 'Suomi',
+                },
+                {
+                    type: 'language',
+                    code: 'cs',
+                    title: 'Čeština',
+                },
+                {
+                    type: 'language',
+                    code: 'hu',
+                    title: 'Magyar',
+                },
+                {
+                    type: 'language',
+                    code: 'ro',
+                    title: 'Română',
+                },
+                {
+                    type: 'language',
+                    code: 'sk',
+                    title: 'Slovenčina',
+                },
+                {
+                    type: 'language',
+                    code: 'id',
+                    title: 'Bahasa Indonesia',
+                },
+                {
+                    type: 'language',
+                    code: 'ms',
+                    title: 'Bahasa Melayu',
+                },
             ],
         },
     },
